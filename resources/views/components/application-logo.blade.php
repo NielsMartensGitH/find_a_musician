@@ -1,0 +1,1 @@
+<img class="rounded-circle" width='100' src="{{asset('storage/musicianlogo.png')}}" alt="">

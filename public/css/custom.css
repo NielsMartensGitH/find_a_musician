@@ -1,0 +1,48 @@
+.app-purple {
+    background-color: #8A25B1;
+    color: white !important;
+}
+
+.app-blue {
+    background-color: #083B66;
+    color: white !important;
+}
+
+.text-app-purple {
+    color: #8A25B1 !important;
+}
+
+.text-app-blue {
+    color: #083B66 !important;
+}
+
+.main-body {
+    background: rgb(5,47,95);
+    background: -webkit-linear-gradient(136deg, rgba(5,47,95,1) 0%, rgba(99,8,88,1) 0%, rgba(0,83,119,1) 100%);
+    background-position: cover;
+    background-repeat: no-repeat
+}
+
+.banner {
+    position: relative;
+}
+
+.banner-image {
+    width: 1500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.logo {
+    position: absolute;
+    top: 13%;
+    left: 11%;
+}
+
+.footer-banner {
+    padding: 15px;
+}
+
+.main-body {
+    height: 50vh;
+}
